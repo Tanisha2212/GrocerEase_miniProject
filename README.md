@@ -1,17 +1,17 @@
-# plswork
+# GrocerEase — AI-Powered Grocery Management App
 
-A new Flutter project.
+GrocerEase is an AI-driven grocery management app designed to make cooking and shopping smarter. It helps users track inventory, generate personalized meal plans, and recommend recipes while simplifying the shopping process.
 
-## Getting Started
+## Features
+- 📦 **Smart Inventory Tracking** – Automatically manage and update grocery items.  
+- 🍲 **Personalized Meal Planning** – Suggests recipes based on available ingredients.  
+- 🤖 **AI Chatbot (LSTM-based)** – Provides grocery and recipe recommendations via natural conversation.  
+- 🛒 **Shopping Assistance** – Generates ingredient lists and suggests nearby store options.  
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Flutter, Dart** – Mobile app development  
+- **GPT-NeoX** – AI-powered meal planning  
+- **TheMealDB API** – Recipe suggestions  
+- **LSTM** – Chatbot recommendation system  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# GrocerEase
